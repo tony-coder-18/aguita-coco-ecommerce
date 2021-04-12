@@ -9,8 +9,8 @@
 
 Run these in your mysql command line.
 
-`CREATE DATABASE laravel;`
-`USE laravel;`
+1. `CREATE DATABASE laravel;`
+2. `USE laravel;`
 
 ### Steps:
 
@@ -24,6 +24,6 @@ To run the locally follow this steps:
 1. `git clone git@github.com:tony-coder-18/aguita-coco-ecommerce.git`
 2. `cd aguita-coco-ecommerce`
 3. `php artisan migrate`
-4  `php artisan serve`
+4.  `php artisan serve`
 
 This app was developed by Bill Llach Bruges. SDG.
