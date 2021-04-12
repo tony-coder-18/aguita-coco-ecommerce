@@ -1,11 +1,21 @@
 # Aguita de coco e-commerce
 
+
 ## Running locally
 
 ### What you need first
 
+### Database script
+
+Run these in your mysql command line.
+
+`CREATE DATABASE laravel;`
+`USE laravel;`
+
+### Steps:
+
 1. MySQL
-2. A mysql database named "laravel"
+2. A mysql database named "laravel" (see Database script)
 3. Edit .env file (in the root of the project) and change the DB_USERNAME
 and DB_PASSWORD values to match your credentials
 
