@@ -1,6 +1,6 @@
-# Aguita de coco eccomerce
+# Aguita de coco e-commerce
 
-## Runnng locally
+## Running locally
 
 ### What you need first
 
