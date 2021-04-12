@@ -1,8 +1,8 @@
-#Aguita de coco eccomerce
+# Aguita de coco eccomerce
 
-##Runnng locally
+## Runnng locally
 
-###What you need first
+### What you need first
 
 1. MySQL
 2. A mysql database named "laravel"
